@@ -93,7 +93,7 @@ service-worker: true
 # Friends
 friends: [
    {
-        title: "简书·BY",
+        title: "简书·FNX",
         href: "http://www.jianshu.com/u/a3e7cc2370e9"
     },{
         title: "Apple",
